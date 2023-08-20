@@ -26,17 +26,3 @@ The tool has support for several input types which can be used to obtain (and ot
 `upi-recon.py -f <vehicle_number>`
 ### Query all possible UPI addresses for a given term
 `upi-recon.py -w <word>`
-
-## Contributions
-Contributions are welcome. Feature wishlist:
-- [ ] Introduce support for more API providers
-- [ ] Introduce support for wordlist based address discovery
-- [ ] Refactor for release as Python module
-
-## Disclaimer
-
-Note: Unified Payment Interface ("UPI") Virtual Payment Addresses ("VPAs") do not carry a data security classification by virtue of their usage in practice, and should as such be considered to be public information, similar to how email addresses may be considered to be public information.
-
-This tool allows users to **1)** check the existence of UPI payment addresses, and **2)** fetch associated information about the account holder, in an automated manner based on provided input. This functionality is already available (however, not in an automated fashion) through most UPI payment applications available on the Android and/or iOS platforms. 
-
-This tool is provided "AS IS" without any warranty of any kind, either expressed, implied, or statutory, to the extent permitted by applicable law.
