@@ -22,7 +22,7 @@ banner = """
        |_|                               
 
 	#  Author: Virtual Cyber Labs
-	#  URL: https://github.com/qurbat/upi-recon
+	#  URL: https://github.com/vclabs/upi-recon.git
         #  Usage:    upi-recon.py <e.g., 9999999999> (query all suffixes for phone number)
                      upi-recon.py -w <e.g., address_list_file> (query addresses from file)
                      upi-recon.py -g <e.g., example@gmail.com> (query known gpay suffixes for google account)
